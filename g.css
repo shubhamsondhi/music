@@ -1,0 +1,22 @@
+.pro{
+    margin-top: 10px;
+    font-size: 1.1em;
+}
+.pro img{
+    border-radius: 20px;
+    height: 45px;
+    width: 45px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.pro input{
+    margin-top: 5px;
+    margin-left: 20px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    border-left: 1px solid skyblue;
+    padding-left: 20px;
+    font-family: serif;
+    font-size: 1.3em;
+}
